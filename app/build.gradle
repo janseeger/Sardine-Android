@@ -15,4 +15,8 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+
+    dependencies {
+        compile group: 'org.simpleframework', name: 'simple-xml', version: '2.7'
+    }
 }
