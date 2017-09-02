@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         minSdkVersion 8
-        targetSdkVersion 8
+        targetSdkVersion 26
     }
 
     buildTypes {
@@ -17,6 +17,7 @@ android {
     }
 
     dependencies {
-        compile group: 'org.simpleframework', name: 'simple-xml', version: '2.7'
+        implementation 'org.simpleframework:simple-xml:2.7'
+        implementation 'org.apache.httpcomponents:httpclient-android:4.3.5.1'
     }
 }
