@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Sardine.iml" filepath="$PROJECT_DIR$/Sardine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sardine-Android.iml" filepath="$PROJECT_DIR$/Sardine-Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

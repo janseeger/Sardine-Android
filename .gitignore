@@ -1,5 +1,5 @@
-/bin/*
-/bin
-/gen/*
-/coverage.em
-/libs/
+local.properties
+*.iml
+.idea/
+.gradle/
+build/
